@@ -81,5 +81,7 @@ How to use Algolia for instant search : https://blog.logrocket.com/how-to-use-al
 ### How to clone project
 
 `# git clone https://github.com/Sigit-Wasis/React-Algolia.git`
+|| 
 `# npm instal`
+||
 `# yarn start` or `npm run dev` 
