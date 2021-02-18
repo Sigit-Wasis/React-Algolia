@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Source Movie 
+
+This is Source for movie : https://github.com/algolia/datasets/tree/master/movies
+
+### Reference React Algolia
+
+How to use Algolia for instant search : https://blog.logrocket.com/how-to-use-algolia-for-instant-search/
+
+### How to clone project
+
+1. git clone 
